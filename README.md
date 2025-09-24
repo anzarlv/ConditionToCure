@@ -19,6 +19,7 @@ Create a data extraction protocol to retrieve information from clinicaltrials.go
 
 ## Key output
 Single function that accepts a str argument representing the "Conditiion or Disease", the exepcted output of the function is:
+
 {
     "clinical_trials": [...],
     "indications": [...],
